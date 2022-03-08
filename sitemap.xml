@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://premiojornalismodados.github.io/posts/post-teste/</loc>
+    <lastmod>2022-03-08T20:29:53-03:00</lastmod>
+  </url><url>
+    <loc>https://premiojornalismodados.github.io/posts/</loc>
+    <lastmod>2022-03-08T20:29:53-03:00</lastmod>
+  </url><url>
+    <loc>https://premiojornalismodados.github.io/</loc>
+    <lastmod>2022-03-08T20:29:53-03:00</lastmod>
+  </url><url>
     <loc>https://premiojornalismodados.github.io/blog/post-1/</loc>
     <lastmod>2019-05-12T12:14:34+06:00</lastmod>
   </url><url>
@@ -66,9 +75,6 @@
     <lastmod>2019-05-12T12:14:34+06:00</lastmod>
   </url><url>
     <loc>https://premiojornalismodados.github.io/portfolio/</loc>
-    <lastmod>2019-05-12T12:14:34+06:00</lastmod>
-  </url><url>
-    <loc>https://premiojornalismodados.github.io/</loc>
     <lastmod>2019-05-12T12:14:34+06:00</lastmod>
   </url><url>
     <loc>https://premiojornalismodados.github.io/about/</loc>
